@@ -1,5 +1,3 @@
-# ignore 
-
-
-# In[ ]:
-
+.idea
+*.iml
+*-checkpoint.ipynb
